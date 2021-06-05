@@ -17,3 +17,7 @@ SysInfo is an app developed in python which gives Basic System Info , and some d
 <li>Context Switches since boot </li>
 <li> Time Spent by processes executing in user mode</li>
 
+## Python Version
+Developed in python 3.6.8 (and tkinter), it works in python 3.X <br>
+It can work on any OS
+# Thank You , Bye ! 

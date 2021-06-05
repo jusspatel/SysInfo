@@ -9,4 +9,11 @@ SysInfo is an app developed in python which gives Basic System Info , and some d
 ## Features 
 
 ### Basic 
+<img src = "https://github.com/jusspatel/SysInfo/blob/main/images/Annotation%202021-06-05%20181715.png">
+
+### Advanced
+<li> Current CPU Usage</li>
+<li>Current CPU Frequency (Mhz) </li>
+<li>Context Switches since boot </li>
+<li> Time Spent by processes executing in user mode</li>
 
